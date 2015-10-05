@@ -10,6 +10,14 @@ Hardware required:
 * Pi NoIR camera
 * Infrared illuminator (preferably 48 infrared LED or more)
 
+#Dependencies
+* sudo apt-get update
+* sudo apt-get install python-pip
+* sudo pip install python-telegram-bot
+* sudo apt-get install motion
+* sudo apt-get remove motion  
+* sudo apt-get install libjpeg62
+
 #Setup
 * cd /home/pi/
 * git clone https://github.com/shaan1337/pitelegramcam.git
