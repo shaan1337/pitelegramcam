@@ -10,6 +10,9 @@ Hardware required:
 * Pi NoIR camera
 * Infrared illuminator (preferably 48 infrared LED or more)
 
+Full guide available at:
+http://shaanxoryog.hackers.mu/2015/10/diy-real-time-security-camera-with.html
+
 #Dependencies
 * sudo apt-get update
 * sudo apt-get install python-pip
